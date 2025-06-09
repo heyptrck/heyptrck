@@ -1,14 +1,14 @@
 # Hi there, 👋
 
-I'm a front-end developer focused on building performant, accessible, and scalable web interfaces. I work daily to deepen my knowledge of JavaScript, React, and modern web technologies. My goal is to master the front-end craft through real-world projects and constant iteration.
+I'm a front-end developer currently focussing on building with Next.js. My goal is to master the front-end craft and work towards this daily.
 
 ---
 
 ### 🚀 What I'm Up To
 
 - 🛠 Building projects with **Next.js**, **TypeScript**, and **Tailwind CSS**.
-- 🧠 Sharpening problem-solving skills through algorithms and coding challenges.
-- 📚 Exploring front-end architecture patterns and performance best practices.
+- 🧠 Sharpening problem-solving skills.
+- 📚 Deepening my JavaScript understanding.
 - 💬 Writing and sharing thoughts at [loorbach.dev](https://loorbach.dev).
 
 ---
