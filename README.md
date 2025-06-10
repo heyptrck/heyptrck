@@ -28,7 +28,7 @@ VS Code, Git, Webpack, Vite, ESLint, Prettier
 
 ### 📫 Contact
 
-[loorbach.dev](https://loorbach.dev)
+[email](mailto:contact@loorbach.dev)
 
 
 <!--
